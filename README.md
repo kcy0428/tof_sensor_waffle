@@ -199,3 +199,7 @@ OpenCR 포트에 `usb_port:=` 옵션으로 지정.
 
 ### VMware에서 Pi 토픽이 안 보임
 VMware 네트워크 모드 **Bridged** 확인. Pi와 `ROS_DOMAIN_ID=30` 동일 여부 확인.
+
+
+
+
