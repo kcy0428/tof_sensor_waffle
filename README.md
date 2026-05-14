@@ -1,3 +1,8 @@
+# 동영상 링크
+```
+https://youtu.be/aUYkpayOvhc
+```
+
 # TurtleBot3 워크스페이스
 
 Raspberry Pi 5 + ROS2 Jazzy 기반 TurtleBot3 Burger 운용 워크스페이스.
